@@ -14,8 +14,9 @@
    if (isLoading || newValue === '') {
       return;
    }
-
-   //Type appropriate comment here, and begin script below
+// adding a new line
+  
+	// adding another line
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -24,7 +25,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>10e51e74474a0110f648b7f3846d43cf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>GitHub Demoscript</sys_name>
         <sys_overrides/>
         <sys_package display_value="GitHub - App" source="x_725468_github_ap">bb9a0678470a0110f648b7f3846d4327</sys_package>
@@ -32,7 +33,7 @@
         <sys_scope display_value="GitHub - App">bb9a0678470a0110f648b7f3846d4327</sys_scope>
         <sys_update_name>sys_script_client_10e51e74474a0110f648b7f3846d43cf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-03 00:40:34</sys_updated_on>
+        <sys_updated_on>2022-03-03 00:43:02</sys_updated_on>
         <table>x_725468_github_ap_wish_list_github</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
