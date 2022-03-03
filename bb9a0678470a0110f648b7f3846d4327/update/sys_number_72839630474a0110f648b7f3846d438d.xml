@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_725468_github_ap_wish_list_github">x_725468_github_ap_wish_list_github</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>WIS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 00:28:43</sys_created_on>
+        <sys_id>72839630474a0110f648b7f3846d438d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WIS</sys_name>
+        <sys_package display_value="GitHub - App" source="x_725468_github_ap">bb9a0678470a0110f648b7f3846d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub - App">bb9a0678470a0110f648b7f3846d4327</sys_scope>
+        <sys_update_name>sys_number_72839630474a0110f648b7f3846d438d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 00:28:43</sys_updated_on>
+    </sys_number>
+</record_update>

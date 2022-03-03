@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Wish-List-GitHub</name>
+        <order>100</order>
+        <roles>x_725468_github_ap.wish_list_github_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 00:28:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>936356f0474a0110f648b7f3846d43f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish-List-GitHub</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GitHub - App" source="x_725468_github_ap">bb9a0678470a0110f648b7f3846d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub - App">bb9a0678470a0110f648b7f3846d4327</sys_scope>
+        <sys_update_name>sys_app_application_936356f0474a0110f648b7f3846d43f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 00:28:12</sys_updated_on>
+        <title>Wish-List-GitHub</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
