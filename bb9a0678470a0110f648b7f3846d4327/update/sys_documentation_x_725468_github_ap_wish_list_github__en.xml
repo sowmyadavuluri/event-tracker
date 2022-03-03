@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Wish-List-GitHub" language="en" table="x_725468_github_ap_wish_list_github">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Wish-List-GitHub</label>
+            <language>en</language>
+            <name>x_725468_github_ap_wish_list_github</name>
+            <plural>Wish-List-GitHubs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-03 00:28:13</sys_created_on>
+            <sys_id>6b6396f0474a0110f648b7f3846d4340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wish-List-GitHub</sys_name>
+            <sys_package display_value="GitHub - App" source="x_725468_github_ap">bb9a0678470a0110f648b7f3846d4327</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GitHub - App">bb9a0678470a0110f648b7f3846d4327</sys_scope>
+            <sys_update_name>sys_documentation_x_725468_github_ap_wish_list_github__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-03 00:28:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
